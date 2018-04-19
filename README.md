@@ -5,8 +5,6 @@ Visual representation of Regions/Provence/Cities in Italy with an Elbow Dendrogr
 Demo [https://adamantino.github.io/Elbow-Dendrogram-of-the-Italian-Cities/](https://adamantino.github.io/Elbow-Dendrogram-of-the-Italian-Cities/)
 
 # Data
-MAP
-+ The map is taken from [mapbox.com](http://mapbox.com)
 
 Data
 + Cities data if for [matteocontrini](https://github.com/matteocontrini)'s Github repository [https://github.com/matteocontrini/comuni-json](https://github.com/matteocontrini/comuni-json)
